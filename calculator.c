@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 void print_banner(void) {
+<<<<<<< HEAD
     printf("Nebula Labs GitHub Workshop\n");
+    printf("Nebula Labs Git Workshop\n");
     printf("C Calculator - [Your Name Here]\n");
 }
 
